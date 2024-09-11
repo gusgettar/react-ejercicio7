@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import EmpleadoAvatar from './empleadoAvatar';
+import EmpleadoAvatar from './EmpleadoAvatar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 const empleadoRow = ({empleado}) => {
   
